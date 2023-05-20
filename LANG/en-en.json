@@ -1,5 +1,12 @@
 {
     "file": "File",
     "edit": "Edit",
-    "about": "About"
+    "about": "About",
+    "cut": "Cut",
+    "copy": "Copy",
+    "paste": "Paste",
+    "delete": "Delete",
+    "remove": "Remove",
+    "add": "Add",
+    "apply": "Apply"
 }

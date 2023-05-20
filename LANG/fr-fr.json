@@ -1,5 +1,12 @@
 {
     "file": "Fichier",
     "edit": "Éditer",
-    "about": "À propos"
+    "about": "À propos",
+    "cut": "Couper",
+    "copy": "Copier",
+    "paste": "Coller",
+    "delete": "Supprimer",
+    "remove": "Enlever",
+    "add": "Ajouter",
+    "apply": "Appliquer"
 }
