@@ -8,5 +8,11 @@
     "delete": "Supprimer",
     "remove": "Enlever",
     "add": "Ajouter",
-    "apply": "Appliquer"
+    "apply": "Appliquer",
+    "new": "Nouveau",
+    "open": "Ouvrir",
+    "save-as": "Enregistrer sous...",
+    "save": "Enregistrer",
+    "close": "Fermer",
+    "quit": "Quitter"
 }
