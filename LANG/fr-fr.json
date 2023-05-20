@@ -14,5 +14,6 @@
     "save-as": "Enregistrer sous...",
     "save": "Enregistrer",
     "close": "Fermer",
-    "quit": "Quitter"
+    "quit": "Quitter",
+    "help": "Aide"
 }
